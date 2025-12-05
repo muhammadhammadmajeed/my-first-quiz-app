@@ -39,6 +39,11 @@ export default function App() {
       answer: "Ankara",
     },
     {
+      question: "What is the capital of Türkiye?",
+      options: ["Istanbul", "Ankara", "Izmir", "Antalya"],
+      answer: "Ankara",
+    },
+    {
       question: "What is the capital of Japan?",
       options: ["Osaka", "Tokyo", "Kyoto", "Hiroshima"],
       answer: "Tokyo",
